@@ -1,4 +1,6 @@
 Classes of Erythema:
-The disease-related types are erythema infectiosum (fifth disease), erythema chronicum migrans, erythema marginatum and palmar erythema. Unlike EM and EN, these are not allergic reactions to medications.
-
-Fifth disease is common in children, while other types are rare
+  The disease-related types are erythema infectiosum (fifth disease), erythema chronicum migrans, erythema marginatum and palmar erythema. Unlike EM and EN, these are not allergic reactions to medications.
+  Fifth disease is common in children, while other types are rare
+Dataset:
+  https://www.kaggle.com/datasets/shubhamgoel27/dermnet
+      acne, melanoma, Eczema, Seborrheic Keratoses, Tinea Ringworm, Bullous disease, Poison Ivy, Psoriasis, Vascular Tumors
