@@ -1,1 +1,9 @@
-
+  Objectives:
+  *To evaluate the perf(sensitivity metric) of DeepLearnig Models w.r.t Dermatology 2 show tht CAD can b used wid Dermatology
+  *To localize nd classify multiple diseases in 1 img
+  *To compare d accuracy of model trained with nd without segmentation(segmentation can b refined (ensure correct segmentation) or unrefined)
+  Modules:
+  *Dataset Preparation(Collect images from Google and label each of them.Model perf-> Proprtional No of imgs)
+  *Preprocessing(Decomposition)(Orig Img->(orig,haemoglobin,melanin))
+  *Segmentation-1/more imgs(U-Net)
+  *Classification-1/more labels(EfficientNet)
