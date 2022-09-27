@@ -7,3 +7,5 @@
   *Preprocessing(Decomposition)(Orig Img->(orig,haemoglobin,melanin))
   *Segmentation-1/more imgs(U-Net)(3 inputs->B&W mask img->Contours(Contour Finding Alg)->Rectangular Crops of each contour(Convex Hull alg))
   *Classification-1/more labels(EfficientNet)
+Pblm Stat:
+CAD(Computer Aided Diagnosis) has been used in many medical fields but this is not the case with Dermatology.Dermatalogists usually perform non-invasive screening test only with naked eye thus reducing the accuracy of their diagnosis.Such diagnosis might not help in succesfull recovery or treatment of patients.Therefore in this work, CAD's efficiency in the field of Dermatology (to d extent of real life use) is proposed to be displayed with the help of both segmentation and classification models
