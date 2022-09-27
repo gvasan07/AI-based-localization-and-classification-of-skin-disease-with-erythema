@@ -5,5 +5,5 @@
   Modules:
   *Dataset Preparation(Collect images from Google and label each of them.Model perf-> Proprtional No of imgs)
   *Preprocessing(Decomposition)(Orig Img->(orig,haemoglobin,melanin))
-  *Segmentation-1/more imgs(U-Net)
+  *Segmentation-1/more imgs(U-Net)(3 inputs->B&W mask img->Contours(Contour Finding Alg)->Rectangular Crops of each contour(Convex Hull alg))
   *Classification-1/more labels(EfficientNet)
